@@ -8,5 +8,6 @@
 <body>
     <h1>Welcome to Spence</h1>
     <p>This is my simple Laravel application.</p>
+    <p>Learning Git and GitHub</p>
 </body>
 </html>
