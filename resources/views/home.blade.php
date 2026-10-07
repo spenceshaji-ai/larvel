@@ -11,5 +11,6 @@
     <p>Learning Git and GitHub</p>
     <p>This change was made on GitHub.</p>
     <p>This is the feature-home branch.</p>
+    <p>This is the About page feature.</p>
 </body>
 </html>
