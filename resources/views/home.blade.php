@@ -10,5 +10,6 @@
     <p>This is my simple Laravel application.</p>
     <p>Learning Git and GitHub</p>
     <p>This change was made on GitHub.</p>
+    <p>This is the feature-home branch.</p>
 </body>
 </html>
