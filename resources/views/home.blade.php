@@ -16,5 +16,6 @@
     <p>Contact us for more information.</p>
     <p>Learning GitHub Desktop</p>
     <p>This change was made directly on GitHub.</p>
+    <p>Learning GitHub Desktop part 2</p>
 </body>
 </html>
