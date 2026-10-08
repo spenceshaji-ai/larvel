@@ -15,5 +15,6 @@
     <p>Welcome to our website.</p>
     <p>Contact us for more information.</p>
     <p>Learning GitHub Desktop</p>
+    <p>This change was made directly on GitHub.</p>
 </body>
 </html>
