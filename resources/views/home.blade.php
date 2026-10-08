@@ -14,5 +14,6 @@
     <p>This is the About page feature.</p>
     <p>Welcome to our website.</p>
     <p>Contact us for more information.</p>
+    <p>Learning GitHub Desktop</p>
 </body>
 </html>
